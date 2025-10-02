@@ -1,0 +1,28 @@
+{
+  "sponsors": [
+    {
+      "name": "Novate IT",
+      "logo": "http://bristoljs.org/assets/img/sponsors/novate.png"
+    },
+    {
+      "name": "POTATO",
+      "logo": "http://bristoljs.org/assets/img/sponsors/potato.png"
+    },
+    {
+      "name": "Pusher",
+      "logo": "http://bristoljs.org/assets/img/sponsors/pusher.png"
+    },
+    {
+      "name": "Just Eat",
+      "logo": "http://bristoljs.org/assets/img/sponsors/just-eat.png"
+    },
+    {
+      "name": "basekit",
+      "logo": "http://bristoljs.org/assets/img/sponsors/basekit.png"
+    },
+    {
+      "name": "cxpartners",
+      "logo": "http://bristoljs.org/assets/img/sponsors/cx-partners.png"
+    }
+  ]
+}

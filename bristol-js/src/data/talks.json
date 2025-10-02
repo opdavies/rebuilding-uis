@@ -1,0 +1,44 @@
+{
+  "talks": [
+    {
+      "title": "ES6 & JSPM",
+      "videoId": "mIBqsXLXmc0"
+    },
+    {
+      "title": "Libraries.io",
+      "videoId": "2tNH-JLbXGk"
+    },
+    {
+      "title": "Hardware Hacking",
+      "videoId": "a_u3OdqeYvI"
+    },
+    {
+      "title": "Libraries.io",
+      "videoId": "ROUvsRJipUs"
+    },
+    {
+      "title": "Building OS X apps with JavaScript",
+      "videoId": "og6K_3kEfQk"
+    },
+    {
+      "title": "Web Audio API",
+      "videoId": "avEVbuv62U8"
+    },
+    {
+      "title": "Open Source Everyday",
+      "videoId": "XnLMKu-l_do"
+    },
+    {
+      "title": "Style Matters",
+      "videoId": "zYFBptgX9FY"
+    },
+    {
+      "title": "Responsive copy writing & smart formatting",
+      "videoId": "kp1IC_Oi5_8"
+    },
+    {
+      "title": "IndexDB",
+      "videoId": "6vGiCYy0hug"
+    }
+  ]
+}
