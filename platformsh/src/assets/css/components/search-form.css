@@ -1,3 +1,0 @@
-.search-form
-  > input:focus + svg
-    @apply opacity-100
